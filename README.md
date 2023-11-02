@@ -1,6 +1,8 @@
 # servicioAlquileres
 
+# SERVICIO DE ALQUILERES
 
+Este proyecto se gestiona todo lo relacionado al alquiler de bicicletas, recibiendo las peticiones redireccionadas desde el api Gateway.
 
 ## Getting started
 
